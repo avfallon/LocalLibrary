@@ -1,7 +1,18 @@
-This is a Java Spring Boot application for a personal media library
+## LocalLibrary is an indexing service for your personal media, written in GoLang, TypeScript, and React.js, with a PostGRES database and GraphQL API service. 
 
-It uses a React.js frontend with a PostreSQL database
+Store, search for, and access personal media across your devices.
 
-Dependencies:
-Java 17
+Access your own collection of movies, ebooks, tv shows, recipes, and podcasts.
+
+Open Source: Please feel free to submit improvement Pull Requests
+
+
+
+
+
+
+
+Designed and Written by: Andrew Fallon
+
+
 
