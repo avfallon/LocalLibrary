@@ -1,6 +1,6 @@
 ## LocalLibrary is an indexing service for your personal media
 
-###Written in GoLang, TypeScript, and React.js, with a PostGRES database and GraphQL API service, this is your one-stop file system and indexing service for your personal library of documents and media.
+### Written in GoLang, TypeScript, and React.js, with a PostGRES database and GraphQL API service, this is your one-stop file system and indexing service for your personal library of documents and media.
 
 Store, search for, and access personal media across your devices.
 
